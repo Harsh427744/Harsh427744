@@ -12,7 +12,7 @@ I enjoy building end‑to‑end products – from clean REST APIs to modern, res
 
 - JavaScript / TypeScript  
 - Python  
-- C++ (DSA & problem solving)  
+- Java (DSA & problem solving)  
 
 **Backend & Databases**
 
@@ -53,8 +53,8 @@ Full‑stack web app for interview prep with coding problems, XP system, progres
 
 ## 📊 GitHub Snapshot
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh427744&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh427744&layout=compact&theme=tokyonight)
+![Harsh's GitHub stats] (https://github-readme-stats.vercel.app/api?username=Harsh427744&show_icons=true&theme=tokyonight)
+![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh427744&layout=compact&theme=tokyonight)
 
 ---
 
