@@ -61,7 +61,7 @@ Full‑stack web app for interview prep with coding problems, XP system, progres
 
 ## 📫 Connect with Me
 
-- GitHub: [@Harsh427744](https://github.com/Harsh427744)  
+- GitHub: [@Harsh427744](https://github.com/Harsh323dev)  
 - Email: harshagarwal323.ag@gmail.com
 - LinkedIn: [@harsh323](https://linkedin.com/in/harsh323)
 
