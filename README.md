@@ -62,38 +62,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 ByteDuel</h3>
-      <div align="center">
-        <a href="https://github.com/harsh323dev/byte-duel" target="_blank">
-          <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-      <br>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-      </p>
-      <p><strong>Cyberpunk 3D DSA Arena</strong> – Valorant-inspired neon gladiator battles with real-time Socket.io updates.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💼 Job Ready</h3>
-      <div align="center">
-        <a href="https://github.com/harsh323dev/job-ready" target="_blank">
-          <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-      <br>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MERN-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Monaco-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-      </p>
-      <p><strong>Interview Prep Platform</strong> – Coding challenges, XP tracking, and Monaco-based code editor.</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">🔗 TinyLink</h3>
       <div align="center">
         <a href="https://github.com/harsh323dev/tiny-link" target="_blank">
