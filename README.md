@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/api?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Harsh+Agarwal;Full+Stack+Developer;MERN+Stack+Specialist;3D+Web+Enthusiast;Building+Cyberpunk+Experiences" alt="Typing SVG" />
-</div>
-
+<h1 align="center">Hi 👋 I'm Harsh Agarwal</h1>
 <h3 align="center">🚀 Crafting immersive digital experiences with code & creativity</h3>
 
 <p align="center">
@@ -13,21 +10,10 @@
 
 ### 💫 About Me
 
-const harsh = {
-role: "Full Stack Developer @ TCS",
-experience: "1.5 years MERN Stack",
-currentFocus: "Building ByteDuel - Cyberpunk 3D DSA Arena",
-passions: ["Real-time Web Apps", "3D Graphics", "System Design"],
-learning: ["Three.js", "WebGL Shaders", "Microservices"],
-askMeAbout: ["React", "Node.js", "MongoDB", "Socket.io"],
-funFact: "I turn algorithms into neon gladiators ⚡"
-};
-
-
-<p align="center">
-  🌐 <a href="https://devspace-harsh.vercel.app" target="_blank"><strong>Portfolio</strong></a> | 
-  📧 <a href="mailto:harshagarwal323.ag@gmail.com"><strong>Email</strong></a>
-</p>
+- 💼 Full Stack Developer @ TCS (1.5 years MERN experience)  
+- 🎮 Currently building **ByteDuel** – Cyberpunk 3D DSA Arena  
+- 🌐 Portfolio: [devspace-harsh.vercel.app](https://devspace-harsh.vercel.app)  
+- 📧 Email: [harshagarwal323.ag@gmail.com](mailto:harshagarwal323.ag@gmail.com)  
 
 ---
 
@@ -73,10 +59,10 @@ funFact: "I turn algorithms into neon gladiators ⚡"
     <td width="50%" valign="top">
       <h3 align="center">🎮 ByteDuel</h3>
       <div align="center">
-        <a href="https://github.com/harsh323dev/ByteDuel" target="_blank">
+        <a href="https://github.com/harsh323dev/Byte-Duel" target="_blank">
           <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://byte-duel.vercel.app" target="_blank">
+        <a href="https://byteduel-harsh.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </div>
@@ -86,7 +72,7 @@ funFact: "I turn algorithms into neon gladiators ⚡"
         <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
       </p>
-      <p><strong>Cyberpunk 3D DSA Arena</strong> - Valorant-inspired neon gladiator battles with real-time Socket.io updates. Arrays vs Graphs in epic visual glory!</p>
+      <p><strong>Cyberpunk 3D DSA Arena</strong> – Valorant-inspired neon gladiator battles with real-time Socket.io updates.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💼 Job Ready</h3>
@@ -94,7 +80,7 @@ funFact: "I turn algorithms into neon gladiators ⚡"
         <a href="https://github.com/harsh323dev/job-ready" target="_blank">
           <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://job-ready.vercel.app" target="_blank">
+        <a href="https://jobready-harsh.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </div>
@@ -103,17 +89,17 @@ funFact: "I turn algorithms into neon gladiators ⚡"
         <img src="https://img.shields.io/badge/MERN-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Monaco-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
       </p>
-      <p><strong>Interview Prep Platform</strong> - Full-stack app with coding challenges, XP tracking, and Monaco-based code editor for real interview practice.</p>
+      <p><strong>Interview Prep Platform</strong> – Coding challenges, XP tracking, and Monaco-based code editor.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🔗 TinyLink</h3>
       <div align="center">
-        <a href="https://github.com/harsh323dev/tinylink" target="_blank">
+        <a href="https://github.com/harsh323dev/tiny-link" target="_blank">
           <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://tinylink-demo.vercel.app" target="_blank">
+        <a href="https://tinylink-harsh.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </div>
@@ -123,7 +109,7 @@ funFact: "I turn algorithms into neon gladiators ⚡"
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
-      <p><strong>URL Shortener + Analytics</strong> - High-performance link shortener with Redis caching, Base62 encoding, and real-time click analytics.</p>
+      <p><strong>URL Shortener + Analytics</strong> – Redis caching, Base62 encoding, and click analytics.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📋 RFP Management</h3>
@@ -137,7 +123,7 @@ funFact: "I turn algorithms into neon gladiators ⚡"
         <img src="https://img.shields.io/badge/MERN-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white"/>
       </p>
-      <p><strong>AI-Powered RFP System</strong> - Natural language RFP creation using Gemini AI with vendor comparison scoring and rich proposal UI.</p>
+      <p><strong>AI-Powered RFP System</strong> – Natural language RFP creation and vendor comparison scoring.</p>
     </td>
   </tr>
 </table>
@@ -147,16 +133,8 @@ funFact: "I turn algorithms into neon gladiators ⚡"
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh323dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh323dev&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh323dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh323dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh323dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh323dev&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
@@ -196,9 +174,6 @@ funFact: "I turn algorithms into neon gladiators ⚡"
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
+  <hr/>
+  <p>⚡ Building the future, one commit at a time ⚡</p>
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/api?font=Fira+Code&size=16&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Building+the+future%2C+one+commit+at+a+time+%E2%9A%A1;%F0%9F%9A%80+Open+to+collaborations+and+opportunities+%F0%9F%9A%80" alt="Footer" />
-</p>
