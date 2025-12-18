@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Harsh Agarwal</h1>
-<h3 align="center">🚀 Crafting immersive digital experiences with code & creativity</h3>
+<h3 align="center">Software Engineer · Crafting immersive digital experiences</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harsh323dev&label=Profile%20views&color=00ffff&style=flat" alt="profile views" />
@@ -10,8 +10,8 @@
 
 ### 💫 About Me
 
-- 💼 Full Stack Developer @ TCS (1.5 years MERN experience)  
-- 🎮 Currently building **ByteDuel** – Cyberpunk 3D DSA Arena  
+- 🧠 Software Engineer focused on MERN, real‑time apps, and 3D web  
+- 🎮 Currently building **ByteDuel** – a cyberpunk 3D DSA battle arena  
 - 🌐 Portfolio: [devspace-harsh.vercel.app](https://devspace-harsh.vercel.app)  
 - 📧 Email: [harshagarwal323.ag@gmail.com](mailto:harshagarwal323.ag@gmail.com)  
 
@@ -59,7 +59,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🎮 ByteDuel</h3>
       <div align="center">
-        <a href="https://github.com/harsh323dev/Byte-Duel" target="_blank">
+        <a href="https://github.com/harsh323dev/byte-duel" target="_blank">
           <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="https://byteduel-harsh.vercel.app" target="_blank">
@@ -174,6 +174,5 @@
 ---
 
 <div align="center">
-  <hr/>
-  <p>⚡ Building the future, one commit at a time ⚡</p>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer" width="100%" alt="Footer Wave"/>
 </div>
