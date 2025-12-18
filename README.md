@@ -65,13 +65,13 @@
       <h3 align="center">🎮 ByteDuel</h3>
       <div align="center">
         <a href="https://github.com/harsh323dev/byte-duel" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
       <br>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
       </p>
       <p><strong>Cyberpunk 3D DSA Arena</strong> – Valorant-inspired neon gladiator battles with real-time Socket.io updates.</p>
@@ -80,7 +80,7 @@
       <h3 align="center">💼 Job Ready</h3>
       <div align="center">
         <a href="https://github.com/harsh323dev/job-ready" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
       <br>
@@ -91,30 +91,31 @@
       <p><strong>Interview Prep Platform</strong> – Coding challenges, XP tracking, and Monaco-based code editor.</p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🔗 TinyLink</h3>
       <div align="center">
         <a href="https://github.com/harsh323dev/tiny-link" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="https://tiny-link-harsh.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </div>
       <br>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Neon_UI-4C1D95?style=flat-square&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Neon_DB-1BFF80?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
-      <p><strong>Minimal URL Shortener</strong> – Next.js-based short links with a clean neon UI and basic click tracking.</p>
+      <p><strong>URL Shortener on Neon</strong> – Next.js-based short links backed by Neon serverless Postgres.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📋 RFP Management</h3>
       <div align="center">
         <a href="https://github.com/harsh323dev/rfp-mgmt" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
       <br>
@@ -126,6 +127,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
