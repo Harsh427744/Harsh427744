@@ -67,9 +67,6 @@
         <a href="https://github.com/harsh323dev/byte-duel" target="_blank">
           <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://byteduel-harsh.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
       </div>
       <br>
       <p align="center">
@@ -84,9 +81,6 @@
       <div align="center">
         <a href="https://github.com/harsh323dev/job-ready" target="_blank">
           <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://jobready-harsh.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </div>
       <br>
@@ -104,17 +98,17 @@
         <a href="https://github.com/harsh323dev/tiny-link" target="_blank">
           <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://tinylink-harsh.vercel.app" target="_blank">
+        <a href="https://tiny-link-harsh.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </div>
       <br>
       <p align="center">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Neon_UI-4C1D95?style=flat-square&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
       </p>
-      <p><strong>URL Shortener + Analytics</strong> – Redis caching, Base62 encoding, and click analytics.</p>
+      <p><strong>Minimal URL Shortener</strong> – Next.js-based short links with a clean neon UI and basic click tracking.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📋 RFP Management</h3>
@@ -132,6 +126,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
