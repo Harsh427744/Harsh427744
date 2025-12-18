@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00F7F7&center=true&vCenter=true&width=650&lines=Software+Engineer;MERN+Stack+%7C+3D+Web+Enthusiast;Building+Cyberpunk+Experiences;Turning+algorithms+into+neon+gladiators" alt="Typing SVG" />
+</p>
+
+
 <h1 align="center">Hi 👋 I'm Harsh Agarwal</h1>
 <h3 align="center">Software Engineer · Crafting immersive digital experiences</h3>
 
