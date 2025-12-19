@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00F7F7&center=true&vCenter=true&width=650&lines=Software+Engineer;MERN+Stack+%7C+3D+Web+Enthusiast;Building+Cyberpunk+Experiences;Turning+algorithms+into+neon+gladiators" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00F7F7&center=true&vCenter=true&width=650&lines=Software+Engineer;MERN+Stack+%7C+3D+Tech+Enthusiast;" alt="Typing SVG" />
 </p>
 
 
@@ -103,7 +103,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh323dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh323dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh323dev&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=3600" alt="Top Languages"/>
 </p>
 
