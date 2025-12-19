@@ -77,7 +77,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Neon_DB-1BFF80?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+        <!-- <img src="https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white"/> -->
       </p>
       <p><strong>URL Shortener on Neon</strong> – Next.js-based short links backed by Neon serverless Postgres.</p>
     </td>
