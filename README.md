@@ -106,7 +106,6 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=harsh323dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ![GitHub Stats](https://github-stats-harsh323dev.vercel.app/api?username=harsh323dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
