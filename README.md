@@ -105,9 +105,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-stats-harsh323dev.vercel.app/api?username=harsh323dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-harsh323dev.vercel.app/api/top-langs/?username=harsh323dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-stats-harsh323dev.vercel.app/api?username=harsh323dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&exclude_repo=github-stats-harsh323dev"/>
+  <img height="180em" src="https://github-stats-harsh323dev.vercel.app/api/top-langs/?username=harsh323dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=github-stats-harsh323dev"/>
 </p>
+
 
 ---
 
