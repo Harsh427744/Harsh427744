@@ -104,18 +104,10 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-
-![GitHub Stats](https://github-stats-harsh323dev.vercel.app/api?username=harsh323dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-stats-harsh323dev.vercel.app/api/top-langs/?username=harsh323dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
-
-<!--![Profile Views](https://komarev.com/ghpvc/?username=harsh323dev&color=blueviolet&style=flat-square&label=Profile+Views) -->
-
-</div>
-
-
+<p align="center">
+  <img height="180em" src="https://github-stats-harsh323dev.vercel.app/api?username=harsh323dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-harsh323dev.vercel.app/api/top-langs/?username=harsh323dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
