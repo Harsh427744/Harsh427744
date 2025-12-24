@@ -105,9 +105,14 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh323dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh323dev&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=3600" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harsh323dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harsh323dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh323dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 
 ---
 
