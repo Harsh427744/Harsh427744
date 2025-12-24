@@ -102,16 +102,20 @@
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harsh323dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harsh323dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh323dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=harsh323dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![GitHub Stats](https://github-stats-harsh323dev.vercel.app/api?username=harsh323dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-stats-harsh323dev.vercel.app/api/top-langs/?username=harsh323dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+
+<!--![Profile Views](https://komarev.com/ghpvc/?username=harsh323dev&color=blueviolet&style=flat-square&label=Profile+Views) -->
+
+</div>
+
 
 
 ---
